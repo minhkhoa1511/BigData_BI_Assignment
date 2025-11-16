@@ -1,4 +1,4 @@
-# BigData_BI_Assignment
+# BigData_BI_Assignment - Nhóm 18
 ## Bài tập lớn môn học Phân tích Dữ liệu lớn và Trí tuệ Kinh doanh (CO4033)
 Chủ đề: Tối ưu hóa Chiến lược Bán chéo cho Doanh nghiệp Bán lẻ bằng Phân tích Dữ liệu Giao dịch
 
